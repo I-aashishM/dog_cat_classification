@@ -8,7 +8,8 @@ There are 12500 cat images and 12500 dog images (total 25000) for training, wher
 - keras
 
 ### Approach
-- I have used vgg19 model with "imagenet" weights to evaluate this task. The model is saved in "model/entire_model.h5". The training took  around 8 hours to train the model with 94.7% accuracy.
+- I have used vgg19 model with "imagenet" weights to evaluate this task. The training took  around 8 hours to train the model with 94.7% accuracy.
 
 - For testing 12500 images, it took 3 hours to predict the labels.
+
 
